@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: ghcr.io/uvalentino/go-web-app:sha-10a868cae3d320ae737d3524d60b01c64c9ee510
+        image: ghcr.io/uvalentino/go-web-app:sha-89abe6f
         # Image will be automatically updated by CI/CD pipeline
         imagePullPolicy: Always
         ports:
