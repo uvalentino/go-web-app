@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: ghcr.io/uvalentino/go-web-app:sha-d6b2cfa
+        image: ghcr.io/uvalentino/go-web-app:sha-49988b0
 <<<<<<< HEAD
 =======
         imagePullPolicy: Always
